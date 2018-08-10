@@ -1,0 +1,155 @@
+{
+  "DEM": {
+    "checkBox_Clip": false, 
+    "checkBox_Frame": false, 
+    "checkBox_Shading": true, 
+    "checkBox_Sides": true, 
+    "checkBox_Surroundings": false, 
+    "checkBox_TransparentBackground": false, 
+    "comboBox_ClipLayer": "Islington20180704113700388", 
+    "comboBox_DEMLayer": 0, 
+    "comboBox_TextureSize": 100, 
+    "horizontalSlider_DEMSize": 2, 
+    "lineEdit_Color": "", 
+    "lineEdit_ImageFile": "", 
+    "lineEdit_centerX": "", 
+    "lineEdit_centerY": "", 
+    "lineEdit_rectHeight": "", 
+    "lineEdit_rectWidth": "", 
+    "radioButton_MapCanvas": true, 
+    "radioButton_Simple": true, 
+    "spinBox_Height": 4, 
+    "spinBox_Roughening": 4, 
+    "spinBox_Size": 5, 
+    "spinBox_demtransp": 0, 
+    "visible": false
+  }, 
+  "OutputFilename": "C:/Users/r.boyle/OneDrive - Regeneris Consulting Ltd/QGIS/3D Maps/Islington/Islington Buildings.html", 
+  "POLYGON": {
+    "Islington20180704113700388": {
+      "checkBox_Clip": true, 
+      "checkBox_ExportAttrs": false, 
+      "comboBox_Label": null, 
+      "comboBox_ObjectType": 0, 
+      "heightWidget": {
+        "comboData": 2, 
+        "comboText": "Relative to DEM", 
+        "editText": "0", 
+        "type": 4
+      }, 
+      "labelHeightWidget": {
+        "comboData": 3, 
+        "comboText": "Height from top", 
+        "editText": "540.414614466", 
+        "type": 6
+      }, 
+      "radioButton_IntersectingFeatures": true, 
+      "styleWidget0": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 2
+      }, 
+      "styleWidget1": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 5
+      }, 
+      "styleWidget2": {
+        "comboData": 1, 
+        "comboText": "Fixed value", 
+        "editText": "64.849753736", 
+        "type": 1
+      }, 
+      "styleWidget3": {}, 
+      "styleWidget4": {}, 
+      "styleWidget5": {}, 
+      "visible": false
+    }, 
+    "Islington_heights20180704113820917": {
+      "checkBox_Clip": true, 
+      "checkBox_ExportAttrs": false, 
+      "comboBox_Label": null, 
+      "comboBox_ObjectType": 0, 
+      "heightWidget": {
+        "comboData": 104, 
+        "comboText": " \"MAX_max\"", 
+        "editText": "0", 
+        "type": 4
+      }, 
+      "labelHeightWidget": {
+        "comboData": 3, 
+        "comboText": "Height from top", 
+        "editText": "540.414614466", 
+        "type": 6
+      }, 
+      "radioButton_IntersectingFeatures": true, 
+      "styleWidget0": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 2
+      }, 
+      "styleWidget1": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 5
+      }, 
+      "styleWidget2": {
+        "comboData": 104, 
+        "comboText": "\"MAX_max\"", 
+        "editText": "5", 
+        "type": 1
+      }, 
+      "styleWidget3": {}, 
+      "styleWidget4": {}, 
+      "styleWidget5": {}, 
+      "visible": true
+    }, 
+    "Local_Authority_Districts_December_2015_Full_Clipped_Boundaries_in_Great_Britain20180704113544493": {
+      "checkBox_Clip": true, 
+      "checkBox_ExportAttrs": false, 
+      "comboBox_Label": null, 
+      "comboBox_ObjectType": 0, 
+      "heightWidget": {
+        "comboData": 2, 
+        "comboText": "Relative to DEM", 
+        "editText": "0", 
+        "type": 4
+      }, 
+      "labelHeightWidget": {
+        "comboData": 3, 
+        "comboText": "Height from top", 
+        "editText": "540.414614466", 
+        "type": 6
+      }, 
+      "radioButton_IntersectingFeatures": true, 
+      "styleWidget0": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 2
+      }, 
+      "styleWidget1": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 5
+      }, 
+      "styleWidget2": {
+        "comboData": 1, 
+        "comboText": "Fixed value", 
+        "editText": "64.849753736", 
+        "type": 1
+      }, 
+      "styleWidget3": {}, 
+      "styleWidget4": {}, 
+      "styleWidget5": {}, 
+      "visible": false
+    }
+  }, 
+  "PluginVersion": "1.4.2", 
+  "Template": "3DViewer(dat-gui).html"
+}
